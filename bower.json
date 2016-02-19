@@ -1,0 +1,25 @@
+{
+  "name": "fontamazing",
+  "authors": [
+    "Code Diode <hello@codediode.io>"
+  ],
+  "description": "an icon font sample lesson",
+  "main": [
+    "css/fontawesome.css"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "icon",
+    "font"
+  ],
+  "license": "MIT",
+  "homepage": "https://codediode.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
